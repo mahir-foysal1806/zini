@@ -1,0 +1,5 @@
+node_modules/
+sandbox/
+*.zini-backup
+.env
+.env.*
